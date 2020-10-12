@@ -21,3 +21,11 @@ ul {
   li a:hover {
     background-color: #111;
   }
+
+  #prices{
+    margin-top: 25px;
+  }
+
+  .imageCarousel{
+    height:530px;
+  }
