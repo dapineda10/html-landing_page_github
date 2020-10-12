@@ -35,3 +35,10 @@ ul {
   .imageCarousel{
     height:530px;
   }
+
+  footer{
+    background-color: #4F2AB2;
+    color: white;
+    padding: 1em;
+    margin-top: 10px;
+  }
